@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "active-directory-new-domain-ha-2-dc", "active-directory-new-domain-ha-2-dc\active-directory-new-domain-ha-2-dc.deployproj", "{6865D16A-6C43-425F-BB77-09E99E5D8FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6865D16A-6C43-425F-BB77-09E99E5D8FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6865D16A-6C43-425F-BB77-09E99E5D8FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6865D16A-6C43-425F-BB77-09E99E5D8FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6865D16A-6C43-425F-BB77-09E99E5D8FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
